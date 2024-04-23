@@ -24,6 +24,6 @@ The data created during this process was slightly altered. The original subset a
 # Drug Poisoning Deaths
 Amount of drug poisoning deaths for counties in North Carolina between the years of 2014 & 2015.
 
-![data-viz](![Qvdob--drug-poisoning-deaths-](https://github.com/chloeasmith24/County-Public-Health-Data--Chloe-Smith/assets/167830166/18867619-9c51-4614-8997-972f581684f4))
+![Data Poisoning Deaths Visual](![Qvdob--drug-poisoning-deaths-](https://github.com/chloeasmith24/County-Public-Health-Data--Chloe-Smith/assets/167830166/18867619-9c51-4614-8997-972f581684f4))
 
 
