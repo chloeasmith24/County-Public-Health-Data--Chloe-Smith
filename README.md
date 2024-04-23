@@ -23,5 +23,4 @@ The data created during this process was slightly altered. The original subset a
 - This visualization was created through Datawrapper. Click the link if you would like to create your own. 
 # Drug Poisoning Deaths
 Amount of drug poisoning deaths for counties in North Carolina between the years of 2014 & 2015.
-![data-viz](<iframe title="[Drug Poisoning Deaths]" aria-label="Map" id="datawrapper-chart-Qvdob" src="https://datawrapper.dwcdn.net/Qvdob/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="337" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>)
+![data-viz](drug-poisoning-deaths.pnb)
