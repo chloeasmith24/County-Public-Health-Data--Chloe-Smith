@@ -4,3 +4,4 @@ This repository was created for Prof. Steven Gotzler's English 105 Class in the 
 - In addition to this, it also includes a subset of this data created by manipulating the raw data through Python3.
 - The repository also includes the Python notebook that shows the steps and instructions for creating the subset from the raw data. 
 ------
+# What is the purpose of this repository?
