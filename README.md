@@ -20,7 +20,8 @@ The data created during this process was slightly altered. The original subset a
 >No data was altered, however the Drug Poisoning deaths and Premature deaths rows were condensed to show data for counties within North Carolina.
 
 >The State column was also adjusted to only show data for North Carolina.
-- This visualization was created through Datawrapper. Click the link if you would like to create your own. 
+- This visualization was created through Datawrapper. Click the [link](https://www.datawrapper.de/) if you would like to create your own. 
 # Drug Poisoning Deaths
 Amount of drug poisoning deaths for counties in North Carolina between the years of 2014 & 2015.
-![data-viz](/downloads/drug-poisoning-deaths.pnb)
+![data-viz]("C:\Users\Chloe Smith\Downloads\drug-poisoning-deaths.png")
+
