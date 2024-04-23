@@ -16,3 +16,7 @@ This repository was created for Prof. Steven Gotzler's English 105 Class in the 
 - This data could serve as a resource to residents and community members to provide information regarding the county they live in.
 ---------
 # Data Visualization
+The data created during this process was slightly altered. The original subset along with the altered version can be found under files in this repository. 
+>No data was altered, however the Drug Poisoning deaths and Premature deaths rows were condensed to show data for counties within North Carolina. 
+>The State column was also adjusted to only show data for North Carolina.
+- This visualization was created through Datwrapper. Click the link if you would like to create your own. 
