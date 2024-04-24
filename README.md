@@ -13,7 +13,7 @@ This repository was created for Prof. Steven Gotzler's English 105 Class in the 
 ------
 # What could this data be used for?
 - County Public Health Data could be used by government agencies to make informed decisions and deliver resources in an effective manner.
-- It could also be used by organizations within specific communites to identify areas of need.
+- It could also be used by organizations within specific communities to identify areas of need.
 - This data could serve as a resource to residents and community members to provide information regarding the county they live in.
 ---------
 # Data Visualization
