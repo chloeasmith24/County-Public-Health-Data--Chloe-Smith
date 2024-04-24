@@ -9,6 +9,7 @@ This repository was created for Prof. Steven Gotzler's English 105 Class in the 
 - This data could be used by communities to access data in order to identify, prevent, and control issues.
 -------
 # Where is this data from?
+- The data was provided by Professor Steven Gotzler. 
 ------
 # What could this data be used for?
 - County Public Health Data could be used by government agencies to make informed decisions and deliver resources in an effective manner.
@@ -17,7 +18,7 @@ This repository was created for Prof. Steven Gotzler's English 105 Class in the 
 ---------
 # Data Visualization
 The data created during this process was slightly altered. The original subset along with the altered version can be found under files in this repository. 
->No data was altered, however the Drug Poisoning deaths and Premature deaths rows were condensed to show data for counties within North Carolina.
+>The altered subset includes the Drug Poisoning deaths and Premature death rows that were condensed to show data for counties specificallyt within North Carolina.
 
 >The State column was also adjusted to only show data for North Carolina.
 - This visualization was created through Datawrapper. Click the [link](https://www.datawrapper.de/) if you would like to create your own. 
