@@ -1,12 +1,12 @@
 # County-Public-Health-Data--Chloe-Smith
 This repository was created for Prof. Steven Gotzler's English 105 Class in the Spring 2024 semester.
-- It contains the raw data set of County Public Health data in the United States from 2014-2015.
+- It contains the raw data set of County Public Health in the United States from 2014-2015.
 - In addition to this, it also includes a subset of this data created by manipulating the raw data through Python3.
 - The repository also includes the Python notebook that shows the steps and instructions for creating the subset from the raw data. 
 ------
 # What is the purpose of this repository?
 - The purpose of this repository is to display data regarding Public Health by county within the United States.
-- This data could be used by communities to access data in order to identify, prevent, and control issues.
+- This data could be used by communities in order to identify, prevent, and control issues.
 -------
 # Where is this data from?
 - The data was provided by Professor Steven Gotzler. 
@@ -18,7 +18,7 @@ This repository was created for Prof. Steven Gotzler's English 105 Class in the 
 ---------
 # Data Visualization
 The data created during this process was slightly altered. The original subset along with the altered version can be found under files in this repository. 
->The altered subset includes the Drug Poisoning deaths and Premature death rows that were condensed to show data for counties specifically within North Carolina.
+>The altered subset includes the Drug Poisoning deaths and Premature death rows to show data related to these variables for counties specifically within North Carolina.
 
 >The State column was also adjusted to only show data for North Carolina.
 - This visualization was created through Datawrapper. Click the [link](https://www.datawrapper.de/) if you would like to create your own. 
